@@ -22,19 +22,17 @@
 
 # Namaste Food
 
-/**
- *  Header
- *    - Logo
- *    - Nav Items
- *  Body
- *    - Search
- *    - RestaurantContainer
- *      - RestaurantCard
- *        - img
- *        - Name of res, star rating, cuisine, delivery time
- *  Footer
- *    - Copywright
- *    - Links
- *    - Address
- *    - Contact
- */
+- Header
+- Logo
+- Nav Items
+- Body
+- Search
+- RestaurantContainer
+  - RestaurantCard
+  - img
+  - Name of res, star rating, cuisine, delivery time
+- Footer
+  - Copywright
+  - Links
+  - Address
+  - Contact
